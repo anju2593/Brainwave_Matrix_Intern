@@ -1,0 +1,101 @@
+Date,Order ID,Product Name,Category,Quantity Sold,Unit Price,Total Sales,Customer ID,Sales Channel
+1/26/2024,ORD1000,Headphones,Electronics,3,100,300,CUST126,Online
+2/1/2024,ORD1001,Desk Chair,Furniture,2,150,300,CUST204,In-Store
+1/24/2024,ORD1002,Pen Set,Stationery,5,5,25,CUST372,Online
+1/9/2024,ORD1003,Backpack,Accessories,4,50,200,CUST217,In-Store
+1/29/2024,ORD1004,Headphones,Electronics,5,100,500,CUST182,Online
+2/11/2024,ORD1005,Wrist Watch,Accessories,1,200,200,CUST282,In-Store
+1/13/2024,ORD1006,Coffee Maker,Appliances,3,120,360,CUST416,In-Store
+1/15/2024,ORD1007,Pen Set,Stationery,1,5,5,CUST326,Online
+2/29/2024,ORD1008,Wrist Watch,Accessories,5,200,1000,CUST170,Online
+1/30/2024,ORD1009,Backpack,Accessories,3,50,150,CUST315,In-Store
+1/15/2024,ORD1010,Headphones,Electronics,4,100,400,CUST318,Online
+1/25/2024,ORD1011,Pen Set,Stationery,2,5,10,CUST154,In-Store
+1/2/2024,ORD1012,Wrist Watch,Accessories,4,200,800,CUST111,In-Store
+1/2/2024,ORD1013,Pen Set,Stationery,1,5,5,CUST134,Online
+1/13/2024,ORD1014,Office Desk,Furniture,1,300,300,CUST150,In-Store
+2/7/2024,ORD1015,Laptop,Electronics,5,800,4000,CUST316,In-Store
+2/12/2024,ORD1016,Office Desk,Furniture,1,300,300,CUST195,Online
+1/11/2024,ORD1017,Laptop,Electronics,3,800,2400,CUST127,In-Store
+2/27/2024,ORD1018,Coffee Maker,Appliances,2,120,240,CUST264,In-Store
+3/1/2024,ORD1019,Smartphone,Electronics,3,600,1800,CUST459,Online
+2/22/2024,ORD1020,Wrist Watch,Accessories,3,200,600,CUST106,Online
+2/2/2024,ORD1021,Coffee Maker,Appliances,2,120,240,CUST390,In-Store
+2/11/2024,ORD1022,Laptop,Electronics,4,800,3200,CUST238,In-Store
+1/3/2024,ORD1023,Backpack,Accessories,1,50,50,CUST476,Online
+3/1/2024,ORD1024,Laptop,Electronics,4,800,3200,CUST233,In-Store
+1/3/2024,ORD1025,Headphones,Electronics,4,100,400,CUST453,In-Store
+1/11/2024,ORD1026,Pen Set,Stationery,3,5,15,CUST491,Online
+2/5/2024,ORD1027,Office Desk,Furniture,3,300,900,CUST495,In-Store
+2/1/2024,ORD1028,Smartphone,Electronics,3,600,1800,CUST487,Online
+2/7/2024,ORD1029,Headphones,Electronics,2,100,200,CUST258,Online
+1/22/2024,ORD1030,Backpack,Accessories,5,50,250,CUST322,Online
+2/20/2024,ORD1031,Desk Chair,Furniture,2,150,300,CUST381,Online
+2/2/2024,ORD1032,Desk Chair,Furniture,3,150,450,CUST391,In-Store
+1/30/2024,ORD1033,Headphones,Electronics,3,100,300,CUST208,In-Store
+2/1/2024,ORD1034,Smartphone,Electronics,2,600,1200,CUST215,In-Store
+1/13/2024,ORD1035,Backpack,Accessories,3,50,150,CUST478,In-Store
+1/29/2024,ORD1036,Wrist Watch,Accessories,4,200,800,CUST411,In-Store
+1/27/2024,ORD1037,Wrist Watch,Accessories,4,200,800,CUST112,In-Store
+1/17/2024,ORD1038,Wrist Watch,Accessories,3,200,600,CUST108,Online
+2/15/2024,ORD1039,Office Desk,Furniture,4,300,1200,CUST192,Online
+2/11/2024,ORD1040,Office Desk,Furniture,2,300,600,CUST351,In-Store
+2/20/2024,ORD1041,Coffee Maker,Appliances,5,120,600,CUST370,In-Store
+2/22/2024,ORD1042,Office Desk,Furniture,2,300,600,CUST470,In-Store
+1/11/2024,ORD1043,Smartphone,Electronics,5,600,3000,CUST260,In-Store
+1/22/2024,ORD1044,Laptop,Electronics,2,800,1600,CUST438,Online
+1/5/2024,ORD1045,Headphones,Electronics,3,100,300,CUST393,Online
+1/27/2024,ORD1046,Office Desk,Furniture,3,300,900,CUST186,In-Store
+2/3/2024,ORD1047,Smartphone,Electronics,3,600,1800,CUST457,Online
+1/17/2024,ORD1048,Backpack,Accessories,1,50,50,CUST321,In-Store
+2/24/2024,ORD1049,Headphones,Electronics,3,100,300,CUST431,Online
+1/19/2024,ORD1050,Pen Set,Stationery,1,5,5,CUST350,Online
+2/10/2024,ORD1051,Headphones,Electronics,4,100,400,CUST497,Online
+1/2/2024,ORD1052,Desk Chair,Furniture,1,150,150,CUST493,In-Store
+2/14/2024,ORD1053,Desk Chair,Furniture,2,150,300,CUST333,In-Store
+1/13/2024,ORD1054,Backpack,Accessories,3,50,150,CUST442,In-Store
+1/20/2024,ORD1055,Coffee Maker,Appliances,2,120,240,CUST101,In-Store
+1/5/2024,ORD1056,Notebook,Stationery,2,10,20,CUST101,In-Store
+1/16/2024,ORD1057,Notebook,Stationery,4,10,40,CUST333,Online
+1/30/2024,ORD1058,Notebook,Stationery,5,10,50,CUST320,In-Store
+1/26/2024,ORD1059,Pen Set,Stationery,2,5,10,CUST275,Online
+1/30/2024,ORD1060,Office Desk,Furniture,5,300,1500,CUST393,Online
+1/26/2024,ORD1061,Notebook,Stationery,2,10,20,CUST223,Online
+1/3/2024,ORD1062,Notebook,Stationery,1,10,10,CUST123,Online
+1/25/2024,ORD1063,Laptop,Electronics,3,800,2400,CUST459,In-Store
+2/16/2024,ORD1064,Headphones,Electronics,2,100,200,CUST127,Online
+2/11/2024,ORD1065,Coffee Maker,Appliances,5,120,600,CUST357,Online
+1/19/2024,ORD1066,Laptop,Electronics,3,800,2400,CUST265,In-Store
+1/16/2024,ORD1067,Backpack,Accessories,5,50,250,CUST469,In-Store
+2/7/2024,ORD1068,Office Desk,Furniture,3,300,900,CUST106,In-Store
+1/19/2024,ORD1069,Notebook,Stationery,1,10,10,CUST269,In-Store
+2/19/2024,ORD1070,Headphones,Electronics,2,100,200,CUST287,Online
+2/17/2024,ORD1071,Notebook,Stationery,1,10,10,CUST373,In-Store
+1/26/2024,ORD1072,Pen Set,Stationery,3,5,15,CUST341,In-Store
+2/1/2024,ORD1073,Laptop,Electronics,4,800,3200,CUST145,Online
+1/26/2024,ORD1074,Desk Chair,Furniture,1,150,150,CUST122,In-Store
+1/21/2024,ORD1075,Headphones,Electronics,4,100,400,CUST158,In-Store
+2/13/2024,ORD1076,Notebook,Stationery,1,10,10,CUST403,Online
+2/18/2024,ORD1077,Office Desk,Furniture,1,300,300,CUST207,In-Store
+1/10/2024,ORD1078,Notebook,Stationery,4,10,40,CUST257,Online
+2/26/2024,ORD1079,Desk Chair,Furniture,1,150,150,CUST443,In-Store
+1/1/2024,ORD1080,Coffee Maker,Appliances,3,120,360,CUST478,In-Store
+1/18/2024,ORD1081,Pen Set,Stationery,1,5,5,CUST190,Online
+2/13/2024,ORD1082,Smartphone,Electronics,2,600,1200,CUST130,Online
+2/9/2024,ORD1083,Wrist Watch,Accessories,5,200,1000,CUST307,In-Store
+1/15/2024,ORD1084,Coffee Maker,Appliances,3,120,360,CUST400,Online
+2/17/2024,ORD1085,Headphones,Electronics,5,100,500,CUST409,Online
+2/27/2024,ORD1086,Wrist Watch,Accessories,2,200,400,CUST481,Online
+1/30/2024,ORD1087,Coffee Maker,Appliances,1,120,120,CUST283,In-Store
+2/16/2024,ORD1088,Headphones,Electronics,3,100,300,CUST148,Online
+2/1/2024,ORD1089,Smartphone,Electronics,2,600,1200,CUST417,In-Store
+2/21/2024,ORD1090,Pen Set,Stationery,5,5,25,CUST101,In-Store
+1/12/2024,ORD1091,Coffee Maker,Appliances,5,120,600,CUST271,In-Store
+1/28/2024,ORD1092,Backpack,Accessories,3,50,150,CUST336,Online
+1/29/2024,ORD1093,Laptop,Electronics,1,800,800,CUST376,Online
+1/29/2024,ORD1094,Laptop,Electronics,3,800,2400,CUST279,In-Store
+2/22/2024,ORD1095,Smartphone,Electronics,4,600,2400,CUST332,Online
+2/9/2024,ORD1096,Coffee Maker,Appliances,4,120,480,CUST249,In-Store
+2/10/2024,ORD1097,Smartphone,Electronics,5,600,3000,CUST255,Online
+2/11/2024,ORD1098,Coffee Maker,Appliances,2,120,240,CUST433,Online
+1/21/2024,ORD1099,Office Desk,Furniture,3,300,900,CUST348,In-Store
